@@ -6,3 +6,6 @@
 6. Hash adalah kode unik saat melakukan commit
 7. Branch adalah perubahan bebas pada sebuah commit
 8. Merge conflict adalah error yang disebabkan saat sebuah baris diubah oleh dua branch yang berbeda saat melakukan merge
+
+(Menambahkan baris ini untuk mencoba merge conflict)
+(Menambahkan baris ini untuk mencoba merge conflict)
