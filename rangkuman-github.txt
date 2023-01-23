@@ -1,0 +1,8 @@
+1. Commit adalah kegiatan menyimpan untuk melakukan perubahan(snapshot) pada sebuah repository
+2. Repository adalah folder yang berisi file yang digunakan
+3. Checkout adalah kegiatan untuk berpindah dari branch atau kegiatan untuk kembali ke commit sebelumnya
+4. Merge adalah kegiatan untuk menggabungkan branch
+5. Pull requests adalah permohonan perubahan ke branch master sesuai dengan perubahan pada branch kita/lain
+6. Hash adalah kode unik saat melakukan commit
+7. Branch adalah perubahan bebas pada sebuah commit
+8. Merge conflict adalah error yang disebabkan saat sebuah baris diubah oleh dua branch yang berbeda saat melakukan merge
