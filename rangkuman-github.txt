@@ -6,6 +6,8 @@
 6. Hash adalah kode unik saat melakukan commit
 7. Branch adalah perubahan bebas pada sebuah commit
 8. Merge conflict adalah error yang disebabkan saat sebuah baris diubah oleh dua branch yang berbeda saat melakukan merge
+9. Forking adalah kegiatan untuk menyalin keseluruhan suatu repo ke dalam remote kita
+10. Clone adalah kegiatan untuk menyalin keseluruhan suatu repo ke dalam penyimpanan lokal kita
 
 
 (Menambahkan perubahan untuk mencoba merge pada master_branch)
